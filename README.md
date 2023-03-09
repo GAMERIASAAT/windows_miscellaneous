@@ -1,2 +1,2 @@
-# windows_python_miscellaneous
-Miscellaneous python code for windows
+# windows_miscellaneous
+Miscellaneous pentesting code for windows
